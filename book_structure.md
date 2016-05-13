@@ -14,5 +14,5 @@ You'll also find a **manuscript** folder, which is where the rest of the book li
 
 The **images** folder must contain any and all images for the book, including the title_page file that LeanPub uses for the cover image.
 
-Any attachments (code samples, ZIP files etc) should go into an **attachments** folder under **manuscript**. Neither GitHub nor LeanPub will do anything with these; you should provide links to these files in the main GitHub repository.
+Any attachments (code samples, ZIP files etc) should go into an **attachments** folder under the root (at the same level as **manuscript**, not under it). Neither GitHub nor LeanPub will do anything with these; you should provide links to these files in the main GitHub repository.
 
