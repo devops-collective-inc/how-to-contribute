@@ -1,4 +1,4 @@
 # Summary
 
-* General Instructions
+* [General Instructions](general_instructions.md)
 
