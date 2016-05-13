@@ -1,5 +1,5 @@
 # Summary
 
 * [General Instructions](general_instructions.md)
-* Book Structure
+* [Book Structure](book_structure.md)
 
