@@ -2,9 +2,6 @@
 In the root folder of each book, you'll usually find the following files:
 
 * README.md - this is a brief synopsis of the book.
-* SUMMARY.md - this is the book's Table of Contents, as used on GitBook. Chapter titles should match the heading at the top of each chapter's file.
-* book.json - don't mess with this.
-* cover.jpg - this is the cover image.
 
 You'll also find a **manuscript** folder, which is where the rest of the book lives.
 
@@ -12,7 +9,7 @@ You'll also find a **manuscript** folder, which is where the rest of the book li
 * Chapter files must have the .md filename extension - please don't use .txt.
 * About.md is always our standard boilerplate.
 
-The **images** folder must contain any and all images for the book, including the title_page file that LeanPub uses for the cover image.
+The **images** folder must contain any and all images for the book, including the title_page.jpg (or .png) file that LeanPub uses for the cover image.
 
 Any attachments (code samples, ZIP files etc) should go into an **attachments** folder under the root (at the same level as **manuscript**, not under it). Neither GitHub nor LeanPub will do anything with these; you should provide links to these files in the main GitHub repository.
 
