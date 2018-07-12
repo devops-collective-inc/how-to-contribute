@@ -1,6 +1,6 @@
 # General Instructions
 
-Our books are hosted, in Markdown format, in http://GitHubs.com/devops-collective-inc. So, you'll need a way to **clone** our repositories, such as a GitHub desktop client.
+Our books are hosted, in Markdown format, in http://github.com/devops-collective-inc. So, you'll need a way to **clone** our repositories, such as a GitHub desktop client.
 
 Start in the book's [GitHub.com repo](http://github.com/devops-collective-inc), where you'll find a Fork button:
 
@@ -62,4 +62,4 @@ Finally, you'll need to provide a description of what you've changed and finaliz
 
 
 
-However, it's important that you understand the unique structure of our books' files, because our publishing platforms need the correct structure in order to work properly.
+
